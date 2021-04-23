@@ -26,24 +26,17 @@ Working in the tech industry, I have come to accept that this isn't always seen 
                         <div className="page__paragraph">The Bible is interpretted and used in a myriad of ways, and certainly has been at the center of countless evils in this world.
                             <div className="page__paragraph">Yet, within its pages you can find these words:
                                 <div className="page__paragraph highlight__text">The entire law is fulfilled in a single decree: "Love your neighbor as yourself" (Galatians 5:14)</div>
-                                <div className="page__paragraph highlight__text">Above all, love one another deeply, because love covers over a multitude of sins." (1 Peter 4:8)</div>
+                                <div className="page__paragraph highlight__text">Above all, love one another deeply, because love covers over a multitude of sins. (1 Peter 4:8)</div>
                             </div>
                         </div>
                         <div className="page__paragraph">Though many will disagree, I would submit that the message of the Bible is indeed one of hope, healing, and love.
-I maintain that belief while also being able to acknowledge what appear to be an abundance of issues in the Bible.
-I maintain that belief while acknowledging with no small degree of sadness that the symbols, banners, and cultures we associate with Christianity have been and continue to be used, more often than not, as a tool to enslave, rather than liberate. 
-The institutions and individuals that are responsible for such things, in my mind, do not reflect Christianity at all.
-                            <div className="page__paragraph">They are, rather, akin to the Pharisees whom Jesus described in the following way:
-                                <div className="page__paragraph highlight__text">"The scribes and the Pharisees sit on Moses' seat, so practice and observe whatever they tell you—but not what they do.
-                                For they preach, but do not practice. They tie up heavy burdens, hard to bear, and lay them on people's shoulders, but they themselves are not willing to move them with their finger.
-                                They do all their deeds to be seen by others." (Matthew 23:2-5)
-                                </div>
-                            </div>
+I maintain that belief while also acknowledging what appear to be an abundance of issues and inconsistencies in the Bible.
+I maintain that belief while acknowledging that the symbols, banners, and cultures we associate with Christianity have been and continue to be used, more often than not, as tools to enslave, rather than liberate.
 With regard to work, it is common to hear colleagues, friends, and family speak of the necessity of work for financial stability, to keep the mind active, or because it is "the right thing to do", but I would submit that with a sustainable balance between one's work and personal life, work can be all those things and more.
 As the Apostle Paul writes, <span className="highlight__text">"Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward (Colossians 3:23)</span>.
 I believe that Adam and Eve's occupation as gardeners before the fall, together with our own experience, both testify to the truth that work and the <b>dignity</b> it provides, were always intended to be a good thing for mankind to enjoy.
 We are nevertheless burdened by many fears, which drive us apart from one another, even ourselves, and make working together, at times, incredibly difficult.
-It is my reliance on and belief in God that has been and continues to be my guide in navigating through these challenges.
+It is my reliance on and belief that Christ that has been and continues to be my guide in navigating through these challenges.
 I have found that this has only made me more of an asset wherever I have worked.
                         </div>
                     </div>
@@ -64,15 +57,14 @@ The project was very rewarding as it required solving scalability and performanc
                     </div>
                     <div className="page-paragraph__wrap">
                         <div className="page-paragraph__header">Current Activity</div>
-                        <div className="page__paragraph">After fifteen months at Scan123, it was clear to me that I needed a change.
-I disagreed with how things were being managed at Scan123, and despite my efforts, felt unable to effect any significant positive change.
-By the time I made the decision to leave, I felt burnt out, and emotionally exhausted.
-I thought that after leaving I would just jump right back into working with another company however, after a couple months of project building and interviews, I had to acknowledge that I needed to just take some time off.
+                        <div className="page__paragraph">After fifteen months at Scan123, it was clear to me that I needed a change. 
+Unfortunately, by the time I made the decision to leave, I felt burnt out, and emotionally exhausted.
+At first, I thought I would just jump right back into working with another company however, after a couple months of project building and interviews, I had to acknowledge that I needed to just take some time off.
 I needed time to process and grieve the loss of the community, the colleagues, and the hopes that I had had for Scan123.
 I needed time to re-establish in my mind why work is important, beyond just the prospect of money or learning new and exciting things.
 In considering how I might do this, I stumbled upon the Portland Rescue Mission, a community that helps homeless people get back on their feet.
-I'm now in the process of onboarding as a volunteer and am very excited to be a part of such an important service here in Portland.
-When I am not doing things related to that, I am continuing to teach myself various foundational technologies that I hope will help me in my next full time position.
+I'm now working as a volunteer and am very excited to be a part of such an important service here in Portland.
+When I am not volunteering, I am continuing to teach myself various foundational technologies that I hope will help me in my next full time position.
 If you are interested in hiring me, or just want to say hi, please use my <NavLink to="/contact" className="cards-header__link">Contact Page</NavLink>. Thank You for your time!
                         </div>
                     </div>
