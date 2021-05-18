@@ -28,16 +28,16 @@ button {
 #root {
   width: 100%;
   letter-spacing: 1.5px;
-  background: #eee;
+  background: #ccc;
   color: #333;
   opacity: 0;
-  animation-name: fade-in-upogizr;
+  animation-name: fade-in-up2np6p;
   animation-duration: 2s;
   animation-delay: 0s;
   animation-fill-mode: forwards;
   animation-timing-function: ease-in;
 }
-@keyframes fade-in-upogizr {
+@keyframes fade-in-up2np6p {
   from {
     opacity: 0;
   }
@@ -62,7 +62,7 @@ a:hover {
 textarea:focus,
 input:focus {
   box-shadow: 0 0 10px #fff;
-  outline-color: #8798c5;
+  outline-color: #008080;
 }
 
 .hide {
@@ -70,13 +70,15 @@ input:focus {
 }
 
 .image__inkscape {
-  background-image: url("../images/wings.svg");
-  height: 5px;
+  position: fixed;
+  background-image: url("../images/grass.svg");
+  background-position: 0px -5px;
+  width: 100%;
+  max-width: 1250px;
+  height: 45px;
   background-repeat: repeat-x;
   background-size: contain;
-  width: 100%;
-  position: fixed;
-  max-width: 1250px;
+  z-index: -1;
 }
 
 .page {
@@ -126,7 +128,7 @@ input:focus {
   transition: top 0.5s;
   max-width: 1250px;
   box-sizing: border-box;
-  background: #eee;
+  background: #ccc;
 }
 
 .navbar__link {
@@ -194,13 +196,13 @@ input:focus {
   border: 1px solid #ccc;
   border-width: 0px 1px 0px 0px;
   z-index: 3;
-  animation-name: slide-menu-upogj0d;
+  animation-name: slide-menu-up2np79;
   animation-duration: 0.2s;
   animation-fill-mode: forwards;
   animation-timing-function: ease-in;
   animation-delay: 0s;
 }
-@keyframes slide-menu-upogj0d {
+@keyframes slide-menu-up2np79 {
   from {
     width: 0;
   }
@@ -213,14 +215,14 @@ input:focus {
   height: 100%;
   width: 100%;
   z-index: 2;
-  animation-name: fade-in-upogj0e;
+  animation-name: fade-in-up2np7q;
   animation-duration: 0.2s;
   animation-delay: 0s;
   animation-fill-mode: forwards;
   animation-timing-function: ease-in;
   background: none;
 }
-@keyframes fade-in-upogj0e {
+@keyframes fade-in-up2np7q {
   from {
     background: none;
   }
@@ -297,16 +299,16 @@ input:focus {
 }
 
 .cards-header__link {
-  color: #66abff;
+  color: #009a80;
   cursor: pointer;
 }
 .cards-header__link:hover {
   text-decoration: underline;
-  color: #66abff;
+  color: #009a80;
 }
 
 .paragraph__link {
-  color: #f6e9fc;
+  color: #1a1aff;
 }
 
 .highlight__text {
@@ -348,7 +350,7 @@ input:focus {
 }
 
 .card__row + .card__row:not(:last-child) {
-  border-bottom: 1px solid #696284;
+  border-bottom: 1px solid #051a2e;
 }
 
 .card__row--tools {
