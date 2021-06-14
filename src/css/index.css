@@ -31,13 +31,13 @@ button {
   background: #ccc;
   color: #333;
   opacity: 0;
-  animation-name: fade-in-ux6qk4o;
+  animation-name: fade-in-uhkq8sj;
   animation-duration: 2s;
   animation-delay: 0s;
   animation-fill-mode: forwards;
   animation-timing-function: ease-in;
 }
-@keyframes fade-in-ux6qk4o {
+@keyframes fade-in-uhkq8sj {
   from {
     opacity: 0;
   }
@@ -197,13 +197,13 @@ input:focus {
   border: 1px solid #ccc;
   border-width: 0px 1px 0px 0px;
   z-index: 3;
-  animation-name: slide-menu-ux6qk4x;
+  animation-name: slide-menu-uhkq8sp;
   animation-duration: 0.2s;
   animation-fill-mode: forwards;
   animation-timing-function: ease-in;
   animation-delay: 0s;
 }
-@keyframes slide-menu-ux6qk4x {
+@keyframes slide-menu-uhkq8sp {
   from {
     width: 0;
   }
@@ -216,14 +216,14 @@ input:focus {
   height: 100%;
   width: 100%;
   z-index: 2;
-  animation-name: fade-in-ux6qk5f;
+  animation-name: fade-in-uhkq8tj;
   animation-duration: 0.2s;
   animation-delay: 0s;
   animation-fill-mode: forwards;
   animation-timing-function: ease-in;
   background: none;
 }
-@keyframes fade-in-ux6qk5f {
+@keyframes fade-in-uhkq8tj {
   from {
     background: none;
   }
@@ -420,6 +420,10 @@ input:focus {
 
   .card__wrap {
     width: 350px;
+  }
+  .card__wrap--w100 {
+    width: 100%;
+    margin: 0;
   }
 }
 .sweetalert__title {
